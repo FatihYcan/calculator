@@ -28,6 +28,6 @@ Bu proje, HTML ve CSS kullanarak basit bir hesap makinesi arayüzü oluşturmakt
 - HTML
 - CSS
 
-![Cw](./img/cal.jpg)
+https://github.com/user-attachments/assets/a352baf6-4e14-41fd-910b-75466db0e3ce
 
 [Canlı Demo'yu Deneyin](https://fatihycan.github.io/calculator/)
