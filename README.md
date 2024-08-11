@@ -1,32 +1,38 @@
-# Calculator
+# Simple Calculator
 
-This project creates a simple calculator interface using HTML and CSS. The calculator is designed to perform basic arithmetic operations.
+This project uses HTML and CSS to create a simple calculator interface. The calculator features a grid layout with various buttons to perform basic mathematical operations.
 
 ## Features
 
-- Basic calculation operations: addition, subtraction, multiplication, division
-- Clearing, positive/negative change and percentage calculation functions
-- A modern and user-friendly interface
+- **Basic Operations**: Addition, subtraction, multiplication and division operations.
+- **Buttons**: Special buttons for numbers and operations.
+- **Responsive Design**: Responsive design to adapt to different screen sizes.
 
 ## Technologies
 
-- HTML
-- CSS
+- HTML5
+- CSS3
+- CSS Grid Layout
+- CSS Animations
 
-# Hesap Makinesi
 
-Bu proje, HTML ve CSS kullanarak basit bir hesap makinesi arayüzü oluşturmaktadır. Hesap makinesi, temel aritmetik işlemleri gerçekleştirmek için tasarlanmıştır.
+
+# Basit Hesap Makinesi
+
+Bu proje, basit bir hesap makinesi arayüzü oluşturmak için HTML ve CSS kullanır. Hesap makinesi, temel matematiksel işlemleri gerçekleştirmek için çeşitli düğmelere sahip bir grid düzeni içerir.
 
 ## Özellikler
 
-- Temel hesaplama işlemleri: toplama, çıkarma, çarpma, bölme
-- Temizleme, pozitif/negatif değişim ve yüzde hesaplama işlevleri
-- Modern ve kullanıcı dostu bir arayüz
+- **Temel İşlemler**: Toplama, çıkarma, çarpma ve bölme işlemleri.
+- **Düğmeler**: Sayılar ve işlemler için özel düğmeler.
+- **Duyarlı Tasarım**: Farklı ekran boyutlarına uyum sağlamak için responsive tasarım.
 
 ## Teknolojiler
 
-- HTML
-- CSS
+- HTML5
+- CSS3
+- CSS Grid Layout
+- CSS Animations
 
 https://github.com/user-attachments/assets/a352baf6-4e14-41fd-910b-75466db0e3ce
 
